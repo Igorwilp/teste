@@ -1,0 +1,45 @@
+{
+  "logins": [
+    {
+      "nome": "igor",
+      "id": "igor@email.com",
+      "senha": "1234",
+      "telefone": "(99)99999.9999",
+      "cpf": "9999999999999"
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "O Poderoso Chefão",
+      "ano": 1972,
+      "genero": "Drama",
+      "diretor": "Francis Ford Coppola",
+      "atores": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Os Vingadores",
+
+      "ano": 2012,
+      "genero": "Ação",
+      "diretor": "Anthony Russo, Joe Russo, Joss Whedon",
+      "atores": [
+        "Scarlett Johansson",
+        "Robert Downey Jr.",
+        "Mark Ruffalo"
+      ]
+    }
+  ],
+  "generos": [
+    "Drama",
+    "Comédia",
+    "Ação",
+    "Terror",
+    "Suspense"
+  ]
+}
